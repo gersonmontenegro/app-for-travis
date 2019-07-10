@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/app-for-travis/static/css/main.2cce8147.chunk.css",
+    "main.js": "/app-for-travis/static/js/main.6a94148c.chunk.js",
+    "main.js.map": "/app-for-travis/static/js/main.6a94148c.chunk.js.map",
+    "runtime~main.js": "/app-for-travis/static/js/runtime~main.0af9c6b6.js",
+    "runtime~main.js.map": "/app-for-travis/static/js/runtime~main.0af9c6b6.js.map",
+    "static/js/2.b41502e9.chunk.js": "/app-for-travis/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/app-for-travis/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/app-for-travis/index.html",
+    "precache-manifest.d5a4a3ce6336bc6ecfe11f0e6c59ac85.js": "/app-for-travis/precache-manifest.d5a4a3ce6336bc6ecfe11f0e6c59ac85.js",
+    "service-worker.js": "/app-for-travis/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/app-for-travis/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/app-for-travis/static/media/logo.5d5d9eef.svg"
+  }
+}
