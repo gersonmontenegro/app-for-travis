@@ -9,4 +9,4 @@
 ## Resources
 * git
 * github
-* travis CI
+* travis ci
