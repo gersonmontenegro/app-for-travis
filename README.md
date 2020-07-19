@@ -5,3 +5,7 @@
 * To save time
 * To be more professionals
 
+# Resources
+* git
+* github
+* travis CI
