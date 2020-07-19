@@ -1,4 +1,4 @@
-## Why do we use Travis
+# Why do we use Travis
 
 * To be the coolests developers ever!
 * To tidy up our lifestyle probably
@@ -6,7 +6,7 @@
 * To be more professionals
 * To save the world? ...maybe. Nah, just ours.
 
-# Resources
+## Resources
 * git
 * github
 * travis CI
