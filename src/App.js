@@ -20,7 +20,8 @@ function App() {
         </a>
       </header>
       <div>
-        <h1>This is the body...</h1>
+        <h1>TODO list</h1>
+        <h3>Learn git for real...</h3>
       </div>
     </div>
   );
