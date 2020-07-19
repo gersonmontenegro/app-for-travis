@@ -7,6 +7,6 @@
 * To save the world? ...maybe. Nah, just ours.
 
 ## Resources
-* Git
-* Github
+* GIT
+* GITHUB
 * Travis ci
